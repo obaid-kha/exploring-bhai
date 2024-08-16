@@ -1,0 +1,10 @@
+hi bhai 
+ bhai ye hai counter = 1;
+ jab tak bhai (counter <= 100){
+ agar bhai (counter % 2 == 0)
+ {
+    bol bhai counter;
+ }
+ counter +=1;
+ }
+bye bhai
